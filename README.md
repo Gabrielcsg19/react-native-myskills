@@ -1,5 +1,6 @@
 
 # react-native-skills-listing
+![cover-img](https://user-images.githubusercontent.com/54643425/200448553-9574bd6d-beef-4f3f-959a-9ea1b5e766bb.png)
 
 ---
 Projeto de estudo desenvolvido com o objetivo de praticar os conhecimentos em criação e desenvolvimento de aplicativos mobile usando a biblioteca React Native.
